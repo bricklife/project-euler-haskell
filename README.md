@@ -1,4 +1,4 @@
 # project-euler-haskell
 My Project Euler solutions in Haskell
 
-![bricklife](https://projecteuler.net/profile/bricklife.png)
+[![Project Euler](https://projecteuler.net/profile/bricklife.png)](https://projecteuler.net/)

@@ -3,4 +3,4 @@ My Project Euler solutions in Haskell
 
 https://projecteuler.net/
 
-<img src="https://projecteuler.net/profile/bricklife.png" />
+[![Project Euler](https://projecteuler.net/profile/bricklife.png)](https://projecteuler.net/profile/bricklife.png)
